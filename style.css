@@ -32,6 +32,7 @@ body{
     justify-content: start;
     align-items: center;
     text-align: center;
+    filter: drop-shadow(5px 5px 20px #4444);
 }
 
 .second-box{
