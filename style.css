@@ -34,3 +34,15 @@ body{
     text-align: center;
 }
 
+.second-box{
+    height: 273px;
+    width: 270px;
+    background:url(images/image-qr-code.png);
+    background-size: 100%;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-position: 100%;
+ }
+
+ 
