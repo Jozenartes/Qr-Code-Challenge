@@ -45,4 +45,9 @@ body{
     background-position: 100%;
  }
 
- 
+ .header{
+    font-weight: bold;
+    font-size: 20px;
+    width: 80%;
+    padding-bottom: 15px;
+}
