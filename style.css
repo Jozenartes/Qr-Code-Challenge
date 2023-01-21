@@ -5,7 +5,14 @@
     margin: 0;
 }
 
-
+body{
+    font-size: 15px;
+    background: hsl(213, 18%, 88%);
+    min-height: 100vh;
+    font-family: 'Outfit', sans-serif;
+    display:flex;
+    flex-direction: column;
+}
 
 
 
